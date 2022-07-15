@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/facemesh/static/css/main.2396e34f.css",
+    "main.js": "/facemesh/static/js/main.9aee9e2f.js",
+    "static/js/787.1a45ec54.chunk.js": "/facemesh/static/js/787.1a45ec54.chunk.js",
+    "index.html": "/facemesh/index.html",
+    "main.2396e34f.css.map": "/facemesh/static/css/main.2396e34f.css.map",
+    "main.9aee9e2f.js.map": "/facemesh/static/js/main.9aee9e2f.js.map",
+    "787.1a45ec54.chunk.js.map": "/facemesh/static/js/787.1a45ec54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2396e34f.css",
+    "static/js/main.9aee9e2f.js"
+  ]
+}
